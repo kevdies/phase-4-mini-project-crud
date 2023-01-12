@@ -1,2 +1,0 @@
-class SpiceController < ApplicationController
-end
